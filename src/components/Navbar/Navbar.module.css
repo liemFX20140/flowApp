@@ -1,0 +1,17 @@
+.right {
+  display: flex;
+  gap: 2rem;
+}
+
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Navbar a {
+  text-decoration: none;
+}
+
+.right a.active {
+  color: aqua;
+}
